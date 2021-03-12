@@ -21,8 +21,7 @@
 This is a node CLI application that takes in the information about employees and generates an HTML webpage that displays summaries for each person.Testing is the main object and all shall pass. Prompting the user will generate a newly formed objects with your inputs.
 
 ### Video:
-[![Press click to watch the video](https://yt-embed.herokuapp.com/embed?v=r5GAZ3-E0n4&ab)](https://www.youtube.com/watch?v=r5GAZ3-E0n4&ab_channel=pokerchampion")
-
+[![Press click to watch the video](https://yt-embed.herokuapp.com/embed?v=eb_H0oWb4kA&ab)](https://www.youtube.com/watch?v=eb_H0oWb4kA&ab_channel=pokerchampion")
 ### Picture:
 ![Picture](./developer/img/3.png) 
 
