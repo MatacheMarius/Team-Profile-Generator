@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;400;700&display=swap');
+
+body {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-image: url("https://source.unsplash.com/user/erondu/2400x1240");
+  margin: 0;
+  padding: 0;
+}
+
+.jumbotron {
+    background: #000000d0;
+    color: rgb(235, 231, 231);
+}
+
+.card-header {
+    background: #000000d0;
+    color: rgb(235, 231, 231);
+}
+
+.card-body {
+    background: #000000d0;
+    color: rgb(0, 0, 0);
+}
+.list-group {
+    background: #000000d0;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
