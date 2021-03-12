@@ -53,4 +53,4 @@ https://www.linkedin.com/in/matache-marius-0324b4130/
 https://github.com/MatacheMarius
 
 ### GitHub Yo:
-https://matachemarius.github.io/Team-Profile-Generator/
+https://matachemarius.github.io/Team-Profile-Generator/.
